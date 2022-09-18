@@ -1,4 +1,4 @@
-# flask_project
+# E-Commerace website in flask
 ## Overview
 A complete running web using flask in backend and basic front libraries like html, css
 javascript and bootstrap
